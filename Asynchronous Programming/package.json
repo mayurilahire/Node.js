@@ -12,7 +12,7 @@
     "Node",
     "EJS"
   ],
-  "author": "Edureka",
+  "author": "Nobody",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
