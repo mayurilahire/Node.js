@@ -1,0 +1,5 @@
+## Step to run
+> npm start
+> Enter name
+> If exits it will send you message
+  else will create the new file.
